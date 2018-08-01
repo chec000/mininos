@@ -1,0 +1,64 @@
+#menu{ 
+background-color:#999;
+width:220px;
+height:550px;
+border:double #000000;
+top:14px;
+}
+
+
+   #estilo{
+            position:absolute;
+            width:90px;
+            height:50px;
+            padding: 0px;
+            background-color:#000;
+            background:#BDBDBD;
+            border-style: dashed;
+            border-width: 2px;
+            margin: 5px;
+            right:80px;
+            top:250px;
+            text-align:center;
+         }
+
+
+.botn{
+   position:fixed;
+   display:scroll;
+   padding:8px 50px;
+   font-family:'psychotik';
+   font-size:1.2em;
+   font-weight:normal;
+   left:20px;
+  
+   color:#000;
+   text-shadow:none;
+   border-radius:16px;
+   background:#36F;
+   box-shadow:inset 3px 3px 2px #007f8b;
+}
+.botn:hover{
+   background:#FF9C00;
+   box-shadow:inset 3px 3px 2px #995f02;
+}
+
+.botn_imag{
+   
+   display:scroll;
+   padding:8px 50px;
+   font-family:'psychotik';
+   font-size:1.2em;
+   font-weight:normal;
+   right:1045px;
+  
+   color:#000;
+   text-shadow:none;
+   border-radius:16px;
+   background:#960;
+   box-shadow:inset 3px 3px 2px #007f8b;
+}
+.botn_imag:hover{
+   background:#F00;
+   box-shadow:inset 3px 3px 2px #995f02;
+}
